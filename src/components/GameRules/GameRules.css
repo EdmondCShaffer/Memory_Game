@@ -1,0 +1,10 @@
+.GameRules{
+    height: 55px;
+    background-color: red;
+    background-size: cover;
+    width: 100%;
+    white-space: nowrap;
+    font-family: serif;
+    font-size: 18px;
+
+}

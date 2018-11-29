@@ -1,0 +1,10 @@
+.title {
+    background: #ffa600;
+    min-height: 80px;
+    /* position: fixed; */
+    width: 100%;
+    white-space: nowrap;
+    font-family: fantasy;
+    font-size: 35px;
+    
+}

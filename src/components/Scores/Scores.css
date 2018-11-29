@@ -1,0 +1,14 @@
+.highScore{
+    font-family: sans-serif;
+    color: yellow;
+
+}
+.scoreCard{
+    background-color: blue;
+    height: 65px;
+    color: yellow;
+    width: 100%;
+    white-space: nowrap;
+    font-family: fantasy;
+
+}

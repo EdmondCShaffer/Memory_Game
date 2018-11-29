@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Homer Simpson",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png",
+      "click": false
+    },
+    {
+      "id": 2,
+      "name": "Mr. Burns",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/a/a7/Montgomery_Burns.png/revision/latest?cb=20100602062705",
+      "click": false
+    },
+    {
+      "id": 3,
+      "name": "Moe Szyslax",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Moe_Szyslak.png/220px-Moe_Szyslak.png",
+      "click": false
+    },
+    {
+      "id": 4,
+      "name": "Bart Simpson",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png",
+      "click": false
+    },
+    {
+      "id": 5,
+      "name": "Milhouse Van Houten",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/9/91/Milhouse_Van_Houten_2.png/revision/latest?cb=20180429212659",
+      "click": false
+    },
+    {
+      "id": 6,
+      "name": "Krusty the Clown",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/0/07/Tapped_Out_Unlock_Krusty.png/revision/latest?cb=20141120143301",
+      "click": false
+    },
+    {
+      "id": 7,
+      "name": "Barney Gumble",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/6/68/Barney_Gumble_-_shading.png/revision/latest?cb=20180313200146",
+      "click": false
+    },
+    {
+      "id": 8,
+      "name": "Comic Book Guy",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/The_Simpsons-Jeff_Albertson.png/220px-The_Simpsons-Jeff_Albertson.png",
+      "click": false
+    },
+    {
+      "id": 9,
+      "name": "Kent Brockman",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Kent_Brockman.jpg/220px-Kent_Brockman.jpg",
+      "click": false
+    },
+    {
+      "id": 10,
+      "name": "Lenny Leonard",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/e/e8/Lenny_simpsonsworld.png/revision/latest?cb=20180817224345",
+      "click": false
+    },
+    {
+      "id": 11,
+      "name": "Fat Tony",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/6/6e/FatTony.PNG/revision/latest?cb=20170101012836",
+      "click": false
+    },
+    {
+      "id": 12,
+      "name": "https://vignette.wikia.nocookie.net/simpsons/images/6/6e/FatTony.PNG/revision/latest?cb=20170101012836",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/GroundskeeperWillie.png/220px-GroundskeeperWillie.png",
+      "click": false
+    }
+  ]
